@@ -1,0 +1,15 @@
+{
+  "name": "Spanisch Vokabeltrainer V2",
+  "short_name": "Spanisch Trainer",
+  "description": "Spanisch-Vokabeltrainer mit Lernrunden, Statistik, Bildern, Beispielen und Verbformen",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef3f8",
+  "theme_color": "#172033",
+  "lang": "de",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
